@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Mon, 07 Apr 2025 00:31:32 MSK</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/posts/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/posts/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/posts/" hreflang="en-us" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/posts/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Posts · AAAptchi</title>
+        
+
+        
+
+        
+    </channel>
+</rss>

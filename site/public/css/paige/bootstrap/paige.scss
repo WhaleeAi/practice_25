@@ -1,0 +1,15 @@
+{{ $params := . }}
+
+{{ $color := $params.color }}
+{{ $colorscheme := $params.color_scheme }}
+
+{{ $auto := and (not (eq $colorscheme "dark")) (not (eq $colorscheme "light")) }}
+
+{{ if $auto }}
+    $color-mode-type: media-query;
+{{ end }}
+
+$breadcrumb-divider: quote("·");
+$primary: {{ $color }};
+
+@import "bootstrap";
