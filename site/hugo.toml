@@ -3,3 +3,10 @@ languageCode = 'en-us'
 title = 'AAAptchi'
 theme = "ananke"
 
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "О нас"
+    url = "/about/"
+    weight = 1
